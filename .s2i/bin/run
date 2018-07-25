@@ -1,2 +1,4 @@
-cp /tmp/src/.s2i/bin/ROOT.xml /opt/webserver/conf/Catalina/localhost/
+#!/bin/bash
+
+cp /tmp/src/ROOT.xml /opt/webserver/conf/Catalina/localhost/
 /usr/local/s2i/run
