@@ -1,2 +1,0 @@
-cp /tmp/src/.s2i/bin/ROOT.xml /opt/webserver/conf/Catalina/localhost/
-/usr/local/s2i/assemble
