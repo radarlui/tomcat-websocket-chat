@@ -1,4 +1,5 @@
 #!/bin/bash
 
+mkdir -p /opt/webserver/conf/Catalina/localhost
 cp /tmp/src/ROOT.xml /opt/webserver/conf/Catalina/localhost/
 /usr/local/s2i/run
