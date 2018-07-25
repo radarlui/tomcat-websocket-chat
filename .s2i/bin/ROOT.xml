@@ -1,5 +1,0 @@
-<Context
-  docBase="websocket-chat"
-  path=""
-  reloadable="true"
-/>
