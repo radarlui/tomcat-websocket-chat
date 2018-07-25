@@ -1,5 +1,5 @@
 <Context
-  docBase="websocket-chat"
+  docBase="/opt/webserver/webapps/websocket-chat"
   path=""
   reloadable="true"
 />
